@@ -30,7 +30,7 @@ for(const place of places){
     console.log(place.innerText)
 }
 */
-
+/*
 // module-4
 const frui = document.querySelector('.section1 li')
 console.log(frui.innerText);
@@ -39,3 +39,14 @@ const someLi = document.querySelectorAll('.section1 li')
 for(const li of someLi){
     console.log(li.innerText)
 }
+*/
+ /*
+// module-5
+const bg = document.getElementById('header').style.textAlign = "center"
+const bg2 = document.getElementById('header').style.background ="yellow"
+const bg3 = document.getElementById('header').style.padding = '15px';
+// const title = document.getElementById('places-title')
+// console.log(title)
+// title.getAttribute('places-title')
+
+*/
