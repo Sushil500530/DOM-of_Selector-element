@@ -14,18 +14,18 @@ const ContainterFruit = document.getElementById('places-container')
 ContainterFruit.style.backgroundColor = '#589995'
 ContainterFruit.classList.add('text-center')
 ContainterFruit.classList.remove('large-text')
-// const element = document.getElementById('places-container')
-// element.childNodes[1]
-//element.childNodes[3].childNodes[2]
-// element.childNodes[3].childNodes[2].nextsibling
-// element.childNodes[3].childNodes[2].previousSibling
-// element.firstChild
+const element = document.getElementById('places-container')
+element.childNodes[1]
+element.childNodes[3].childNodes[2]
+element.childNodes[3].childNodes[2].nextsibling
+element.childNodes[3].childNodes[2].previousSibling
+element.firstChild
 
 // create element and push div/ section 
-// document.getElementById('placesUL')​
-// placesUL
-// const li = document.createElement('li')
-// li.innerText = 'create element by js'
-// li​
-// placesUL.Append(li)
-// placesUL
+document.getElementById('placesUL')​
+placesUL
+const li = document.createElement('li')
+li.innerText = 'create element by js'
+li​
+placesUL.Append(li)
+placesUL
